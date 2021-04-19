@@ -1,0 +1,57 @@
+main {
+    margin: 0;
+    padding: 0%;
+}
+
+html {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    margin: 0%;
+    padding: 0%;
+}
+
+.listSide {
+    float: left;
+    width: 20vw;
+    background-color: rgb(0, 0, 0);
+}
+
+.dps {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.imageSp {
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.nameBar {
+    text-align: center;
+}
+
+.nam {
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #fff;
+    opacity: 0.9;
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Josefin Sans', sans-serif;
+    letter-spacing: 2px;
+    color: #fff;
+    font-weight: 300;
+}
